@@ -3,7 +3,7 @@ This is a web app that is based on the Metlink API. The aim of this project is t
 
 Some limitations with the API - there are (supposed) to be request limits which could become a problem if the web app gets a substantial amount of traffic.
 
-# Installation
+## Installation
 Add install instructions here
 
 ## Getting started
