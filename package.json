@@ -1,8 +1,8 @@
 {
-  "name": "brunch-app",
-  "description": "Brunch.io application",
+  "name": "metlink-api-app",
+  "description": "Metlink API viewer application",
   "private": true,
-  "author": "Brunch",
+  "author": "electrictangent",
   "version": "0.0.1",
   "repository": "",
   "scripts": {
